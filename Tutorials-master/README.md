@@ -1,4 +1,4 @@
-# Tutorials
+# Tutorials - originally from the [Data Science in Practice](https://github.com/COGS108/Overview) class at UCSD
 
 [![Site](https://img.shields.io/static/v1.svg?label=website&message=link&color=informational)](https://datascienceinpractice.github.io/)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/COGS108/Tutorials/master)
@@ -34,7 +34,7 @@ Any other dependencies, for specific Tutorials, are specifically addressed in th
 
 This repository is developed and maintained by 
 [TomDonoghue](https://github.com/TomDonoghue/), 
-as well as by the COGS108 
+as well as by [Alex Simpkins PhD](http://casimpkinsjr.radiantdolphinpress.com)(https://github.com/RDProboticsLLC), and the COGS108 
 [staff](https://github.com/COGS108/Overview/blob/master/CONTRIBUTORS.md).
 
 Contributions to this resource are welcome and encouraged! 
