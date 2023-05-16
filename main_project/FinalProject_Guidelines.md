@@ -30,7 +30,7 @@ The basic project steps (broken down in more detail below):
 - Assemble a Jupyter notebook that communicates your hypothesis, methods, and results. Submit this as your final project.
 - Submit feedback about group and individual group members. This is done individually.
 
-We strongly encourage you to discuss potential project ideas with your TAs and IAs, and/or with Prof. Voytek! This will give us a chance to make sure you’re on the right track even before you submit your draft.
+We strongly encourage you to discuss potential project ideas with your TA and/or with Dr. Simpkins! This will give us a chance to make sure you’re on the right track even before you submit your draft.
 
 ## Tools and Datasets
 
