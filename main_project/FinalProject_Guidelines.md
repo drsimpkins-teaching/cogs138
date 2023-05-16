@@ -60,4 +60,4 @@ As far as resources go, it is okay to ask other teams what they are doing in ter
 
 ## Previous COGS 138 Final Projects
 
-Previous projects can be viewed from when this course ran in [Winter 2021](https://github.com/NeuralDataScience/Projects). Note that these projects are of high quality and if you get inspiration or code from previous projects, this must be noted in your project, giving attribution to the former groups’ work.
+Previous projects can be viewed from when this course ran in [Winter 2021](https://github.com/drsimpkins-teaching/cogs138/tree/main/main_project/Wi2021). Note that these projects are of high quality and if you get inspiration or code from previous projects, this must be noted in your project, giving attribution to the former groups’ work.
