@@ -32,6 +32,25 @@ The basic project steps (broken down in more detail below):
 
 We strongly encourage you to discuss potential project ideas with your TA and/or with Dr. Simpkins! This will give us a chance to make sure you’re on the right track even before you submit your draft.
 
+## Taboo Topics
+
+Topics should focus on neuroscience and be relevant to neural data science. Other than a few limitations this allows you to choose from almost any neural-relevant topic!
+
+While you are encouraged to pick a topic that helps our understanding of the world/society and neuroscience, there are a few off-limit (or "taboo") topics. We encourage you to pick a topic you care about, not one that is the easiest to find on the Internet.
+
+The taboo topics in COGS 138 are:
+
+- Political topics (it's too controversial and will inevitably alienate some members of the class/population, and is not the course focus)
+- Topics singling out or attacking individuals or groups 
+- Offensive topics (use common sense here - check it out with us if not sure or you think you have something fascinating and relevant)
+- Topics that violoate any of UCSD's policies of community or other student guidelines
+- In addition, if a dataset is on the first few pages of Kaggle's dataset list (when sorted for either hotness or number of votes) then try to find something else.
+
+If you think you have a novel idea and really, really want to work on one of these topics/datasets, then please reach out to the instruction team and we will let you know if your idea will work.
+
+If you use any of these to support your main analysis, that is fine. But, it cannot be your main source of information.
+
+
 ## Tools and Datasets
 
 - [LISC](https://lisc-tools.github.io/lisc/auto_tutorials/index.html)
