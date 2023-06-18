@@ -80,7 +80,7 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 - [ ] Effective visualizations presented
 - [ ] Clear explanations throughout
 - [ ] Take home message clear
-- [ ] Within 3-5 min time limit
+- [ ] Within 10 min time limit
 
 ### Final Checks:
 - [ ] Edit all text for clarity
